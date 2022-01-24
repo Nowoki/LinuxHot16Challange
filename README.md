@@ -17,3 +17,4 @@ Lista 16 najważniejszych komend moim zdaniem:
 13. which
 14. grep
 15. find
+16. wget
